@@ -1,0 +1,9 @@
+[SYNTHETIC TRANSCRIPT - NOT A REAL PATIENT]
+Clinician: Good morning. What brings you in today?
+Patient: I've had a cough for about a week, and a bit of a sore throat.
+Clinician: Any fever?
+Patient: Maybe a low one last night, I didn't check.
+Clinician: Any shortness of breath?
+Patient: No, breathing is fine.
+Clinician: Okay. Your throat looks mildly red and your lungs sound clear. Let's check your temperature.
+Clinician: No fever today. I'd suggest fluids, rest, and over-the-counter lozenges. Come back if breathing gets harder or the cough lasts more than three weeks.
